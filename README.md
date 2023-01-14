@@ -15,3 +15,5 @@
 ### Spring ise Transaction işlemlerini otomatik yönetir. sen arkana yaslanabilirsin.&nbsp;
 ### Spring'de Transaction işlemlerini kullanmak için bu projeyi incelemen gerekiyor.
 ### Transaction veritabanında hata oluşmasını ve veri tutarsızlığını önler. Integrity'i sağlar.
+
+[![Transaction Temsili Resim](transaction-workflow1.gif)]
